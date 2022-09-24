@@ -1,0 +1,39 @@
+.article-container{
+    text-align: center;
+}
+
+.article-image {
+    width: 200px;
+    height: 116px;
+    display: inline-block;
+    overflow: hidden;
+}
+.article-image img {
+    width: 100%;
+}
+
+.article-description{
+    text-align: left;
+}
+
+.article-content {
+    width: 348px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.article-tab {
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    background: #3c526d26;
+    min-height: 300px;
+    box-shadow: 5px 7px 25px #a2a2a2;
+
+}
+
+.article-tab p{
+    text-align: left;
+}
